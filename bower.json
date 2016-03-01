@@ -1,0 +1,26 @@
+{
+  "name": "easynote",
+  "homepage": "https://github.com/platy11/easynote",
+  "authors": [
+    "platy11 <mightymaxmax@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "scribe": "^2.1.1",
+    "scribe-plugin-toolbar": "^1.0.0",
+    "hint.css": "^2.1.0"
+  }
+}
